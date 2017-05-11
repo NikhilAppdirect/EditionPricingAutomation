@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>TestNG:  test1</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>test1</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>2/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed May 10 15:02:06 IST 2017</td>
+</tr>
+<tr><td>Total time:</td><td>6 seconds (6563 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.appdirect.automatePricing.AutomatePrices.loadBrowser()'><b>loadBrowser</b><br>Test class: com.appdirect.automatePricing.AutomatePrices<br/>
+<a href="#Output-331510866" onClick='toggleBox("Output-331510866", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-331510866" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-331510866">
+
+[Info] loadBrowser Test Case Success<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.appdirect.automatePricing.AutomatePrices@d44fc21</td></tr>
+<tr>
+<td title='com.appdirect.automatePricing.AutomatePrices.sheetAccess()'><b>sheetAccess</b><br>Test class: com.appdirect.automatePricing.AutomatePrices<br>Parameters: 4<br/>
+<a href="#Output-1908981452" onClick='toggleBox("Output-1908981452", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1908981452" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1908981452">
+Credentials saved to /Users/jasdeepkaur/.credentials/1/sheets.googleapis.com-java-quickstart<br/>
+Credentials saved to /Users/jasdeepkaur/.credentials/1/sheets.googleapis.com-java-quickstart<br/>
+Credentials saved to /Users/jasdeepkaur/.credentials/1/sheets.googleapis.com-java-quickstart<br/>
+Credentials saved to /Users/jasdeepkaur/.credentials/1/sheets.googleapis.com-java-quickstart<br/>
+Total rows=523
+<br/>
+
+[Info] sheetAccess Test Case Success<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.appdirect.automatePricing.AutomatePrices@d44fc21</td></tr>
+</table><p>
+</body>
+</html>

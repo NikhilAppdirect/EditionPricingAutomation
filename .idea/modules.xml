@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PricingUpdateProject.iml" filepath="$PROJECT_DIR$/PricingUpdateProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.appdirect.main/com.marketplace.mails.iml" filepath="$PROJECT_DIR$/com.appdirect.main/com.marketplace.mails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.marketplace.pages/com.marketplace.pages.iml" filepath="$PROJECT_DIR$/com.marketplace.pages/com.marketplace.pages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.marketplace.utils/com.marketplace.utils.iml" filepath="$PROJECT_DIR$/com.marketplace.utils/com.marketplace.utils.iml" />
+    </modules>
+  </component>
+</project>

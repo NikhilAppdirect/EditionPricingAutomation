@@ -1,0 +1,19 @@
+SrNo,OfferId,EditionName,USD,,EUR,,AUD,,GBP,
+,,,OLD,NEW,OLD,NEW,OLD,NEW,OLD,NEW
+1,195416c1-3447-423a-b37b-ee59a99a19c4,Exchange Online Plan 1,4,4.00,0,3.40,0,3.00,0,5.10
+2,d903a2db-bf6f-4434-83f1-21ba44017813,Exchange Online Protection,1,1.00,0,0.90,0,0.80,0,1.30
+3,ff7a4f5b-4973-4241-8c43-80f2be39311d,SharePoint Online (Plan 1),5,5.00,10,4.20,10,3.80,10,6.40
+4,f7f342b3-177c-41f2-8896-7b06c54fc977,Windows 10 Enterprise E5,14,14.00,0,13.80,0,12.30,0,18.80
+5,be57ff4c-100c-4f1f-b82d-f1c5ab63a665,Office 365 ProPlus,12,12.00,0,12.90,0,11.50,0,17.40
+6,62F28745-3F17-4337-BE15-EA4B8C8DC872,Windows 10 Enterprise E3,7,7.00,0,5.90,0,5.30,0,8.90
+7,bf1f6907-1f8e-4f05-b327-4896d1395c15,OneDrive for Business (Plan 2),10,10.00,0,8.40,0,7.50,0,12.70
+8,b4d4b7f4-4089-43b6-9c44-de97b760fb11,Visio Pro for Office 365,13,13.00,0,11.00,0,9.80,0,16.60
+9,8909e28e-5832-42f4-9886-b0a5545f3645,Office 365 Enterprise E4,22,22.00,0,21.60,0,19.30,0,29.60
+10,5c9fd4cc-edce-44a8-8e91-07df09744609,Office 365 Business,8.3,8.30,0,8.80,0,7.90,0,12.00
+11,2f707c7c-2433-49a5-a437-9ca7cf40d3eb,Exchange Online Plan 2,8,8.00,0,6.80,0,6.00,0,10.20
+12,91fd106f-4b2c-4938-95ac-f54f74e9a239,Office 365 Enterprise E1,8,8.00,0,6.80,0,6.00,0,10.20
+13,69c67983-cf78-4102-83f6-3e5fd246864f,SharePoint Online (Plan 2),10,10.00,0,8.40,0,7.50,0,12.70
+14,031c9e47-4802-4248-838e-778fb1d2cc05,Office 365 Business Premium,12.5,12.50,0,10.60,0,9.40,0,15.90
+15,bd938f12-058f-4927-bba3-ae36b1d2501c,Office 365 Business Essentials,5,5.00,0,4.20,0,3.80,0,6.40
+16,800f4f3b-cfe1-42c1-9cea-675512810488,Power BI Pro,10,10.00,10,8.40,10,7.50,10,12.70
+17,796b6b5f-613c-4e24-a17c-eba730d49c02,Office 365 Enterprise E3,20,20.00,0,19.70,0,17.60,0,26.90
